@@ -5,4 +5,8 @@ public class demo1 {
         System.out.println("hhhhh");
         System.out.println("djdjd");
     }
+
+    public void close() {
+
+    }
 }
